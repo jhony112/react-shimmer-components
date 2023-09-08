@@ -4,6 +4,7 @@
   "author": "John Babs",
   "license": "MIT",
   "version": "1.0.1",
+  "repository": "https://github.com/jhony112/react-shimmer-components.git",
   "type": "module",
   "keywords": [
     "shimmer",
